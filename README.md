@@ -7,6 +7,13 @@
 This project is a Python-based web scraper designed to collect historical data from X (formerly Twitter) using **Selenium**. It was specifically developed to gather tweets related to the **2023 Turkey-Syria Earthquake** for academic research and sentiment analysis purposes.
 
 ## 📌 Project Purpose
+## 🧠 Project Background: Psychological Impact Analysis
+This scraper was specifically designed as the first phase of a research project aimed at **detecting psychological distress and mental health indicators** (such as anxiety, PTSD, or depression patterns) in social media discourse following the 2023 Earthquake. 
+
+The collected data serves as a raw dataset for:
+* **Sentiment Analysis:** Understanding the emotional state of the public.
+* **Topic Modeling:** Identifying key concerns and psychological triggers.
+* **Crisis Management:** Analyzing how digital communication reflects real-time psychological trauma.
 Social media data is vital for understanding public response during natural disasters. This tool automates the process of:
 1. Navigating through X's login authentication.
 2. Executing advanced search queries (e.g., specific keywords and date ranges).
