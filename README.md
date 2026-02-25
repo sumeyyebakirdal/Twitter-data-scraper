@@ -22,12 +22,3 @@ Social media data is vital for understanding public response during natural disa
 * **Data Deduplication:** Ensures each tweet is captured only once during the session.
 
 ---
-
-## 📂 Installation & Requirements
-
-### 1. Prerequisites
-* **Python 3.x**
-* **Chrome Browser** installed.
-* **ChromeDriver:** Ensure the version matches your Chrome browser version. Update the `PATH` variable in the script:
-  ```python
-  PATH = "C:\Program Files\Google\Chrome\Application\chromedriver.exe"
